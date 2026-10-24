@@ -1,4 +1,4 @@
-### Hi, I'm feralpaw 👋
+### Hi, I'm Feralpaw 👋
 
 I currently play on Whitemane-Frostmourne, make addons and tools for **WoW 3.3.5a** and quality-of-life stuff I wanted for myself and figured others might enjoy too.
 
